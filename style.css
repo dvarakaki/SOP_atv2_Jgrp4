@@ -1,0 +1,29 @@
+body {
+    margin: 0;
+    background-color: green;
+    text-align: center;
+}
+.container {
+    background-color: white;
+    width: 260px;
+    margin: auto;
+    padding: 20px;
+    border-radius: 30px;
+    border: 2px solid blue;
+}
+
+.dia {
+    background-color: blue;
+    color: white;
+    padding: 10px;
+    border-radius: 10px;
+    margin: 10px;
+    box-shadow: 2px 2px 2px green;
+}
+
+button {
+    margin-top: 15px;
+    padding: 8px;
+    background-color: green;
+    border-radius: 15px;
+}
